@@ -4,3 +4,5 @@ Generation of Map layer is extremely helpful for visual ease and navigation laye
 We also selected a L1 loss function to address the lower frequency details in the output. This work is inspired by the pix2pix model. 
 
 All the models are developed in keras and can be easily extended to other domains. 
+
+The dataset used for this experiment can be found [**here**](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz)
