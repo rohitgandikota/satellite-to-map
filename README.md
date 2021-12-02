@@ -7,13 +7,15 @@ All the models are developed in keras and can be easily extended to other domain
 
 The dataset used for this experiment can be found [**here**](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz)
 
+
+### Training Sample
 Here is the model's performance after 109600 epochs. 
 
 <div align='center'>
 <img src = 'train_results/plot_109600.png'>
 </div>
 
-### Test sample
+### Test Result
 In this test sample, the map is generated aesthetically and accurately as per satellite map. The ground truth is observed to have false information.
 
 <div align='center'>
