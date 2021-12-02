@@ -13,3 +13,8 @@ Here is the model's performance after 109600 epochs.
 <img src = 'train_results/plot_109600.png'>
 </div>
 
+As can be seen in this sample, the model seems to correctly generate the vegetation layer as opposed to the false ground truth.
+
+<div align='center'>
+<img src = 'train_results/plot_065760.png'>
+</div>
