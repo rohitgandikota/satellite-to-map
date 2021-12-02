@@ -12,9 +12,16 @@ Here is the model's performance after 109600 epochs.
 <div align='center'>
 <img src = 'train_results/plot_109600.png'>
 </div>
-
-As can be seen in this sample, the model seems to correctly generate the vegetation layer as opposed to the false ground truth.
+### Test sample
+In this test sample, the map is generated aesthetically and accurately as per satellite map. The ground truth is observed to have false information.
 
 <div align='center'>
-<img src = 'train_results/plot_065760.png'>
+<img src = 'test_results/Test_770.png'>
+</div>
+
+### Failed Case
+In this test sample, the vegetation area's map is not generated perfectly by the model. 
+
+<div align='center'>
+<img src = 'test_results/Test_230.png'>
 </div>
