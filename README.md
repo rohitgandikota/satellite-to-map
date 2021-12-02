@@ -6,3 +6,10 @@ We also selected a L1 loss function to address the lower frequency details in th
 All the models are developed in keras and can be easily extended to other domains. 
 
 The dataset used for this experiment can be found [**here**](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz)
+
+Here is the model's performance after 109600 epochs. 
+
+<div align='center'>
+<img src = 'train_results/plot_109600.png'>
+</div>
+
